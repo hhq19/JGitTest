@@ -3,3 +3,10 @@ master：
 {type:1,id:998,num:680}
 {type:1,id:998,num:680}
 {type:1,id:998,num:680}
+
+new add：
+{type:1,id:18,num:680}
+{type:1,id:18,num:680}
+{type:1,id:18,num:680}
+{type:1,id:18,num:680}
+{type:1,id:18,num:680}
